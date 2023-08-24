@@ -36,7 +36,7 @@ Halaman Utama
 Hepatitis A
 Indonesia
 Ilmu komputer
-Ilmu-ilmu sosial
+Ilmu ilmu sosial
 Impetigo
 Influenza
 Jawa
@@ -54,7 +54,7 @@ Pulau Madura
 Pertanian
 Perangkat lunak
 Penyakit
-Penyakit tangan, kaki dan mulut
+Penyakit tangan kaki dan mulut
 Penyakit meningokokus
 Rubela
 Gastroenteritis
@@ -62,7 +62,7 @@ Sastra
 Winston Churchill
 Sutardji Calzoum Bachri
 Sapardi Djoko Damono
-Sel (biologi)
+Sel biologi
 Sulawesi
 Orang Minangkabau
 Sejarah
@@ -76,10 +76,10 @@ Buaya Sepit
 Demam Kelenjar
 Memulai Halaman Baru
 Patrick
-Penyakit Tangan, Kaki Dan Mulut
+Penyakit Tangan Kaki Dan Mulut
 Radang Lambung Dan Usus
 Buaya Muara
-Nama-Nama Pujangga Indonesia
+Nama Nama Pujangga Indonesia
 Agama
 Daftar negara berdaulat
 Israel
@@ -166,10 +166,10 @@ Wanaparwa
 Televisi Republik Indonesia
 17 Agustus 1945
 TV 7
-Drs.
+Drs
 RCTI
 Jerusalem
-GTV (Indonesia)
+GTV Indonesia
 Doktorandus
 Linguistik
 Adiparwa
@@ -243,7 +243,7 @@ Bahasa Melayu Modern
 Moskwa
 Pátria
 Sastra Melayu
-Daftar Gubernur-Jenderal Hindia Belanda
+Daftar Gubernur Jenderal Hindia Belanda
 Hindia Belanda
 Inggris
 Islandia
@@ -281,10 +281,10 @@ Geologi
 Bahasa resmi
 Nabi dan rasul dalam Islam
 Adam
-Al-Qur'an
+Al Quran
 Statistika
 Mazhab
-Denominasi (disambiguasi)
+Denominasi disambiguasi
 Kitab suci
 Kitab Ayub
 Sengsara
@@ -293,19 +293,19 @@ Provinsi di Belanda
 Belanda
 Holland Selatan
 Holland Utara
-Utrecht (provinsi)
+Utrecht provinsi
 Flevoland
 Zeeland
 Gelderland
 Drenthe
 Overijssel
-Groningen (provinsi)
-Limburg (Belanda)
+Groningen provinsi
+Limburg Belanda
 Brabant Utara
 Friesland
 Den Haag
-Utrecht, Utrecht
-Groningen (Groningen)
+Utrecht Utrecht
+Groningen Groningen
 Arnhem
 Zwolle
 Haarlem
@@ -321,10 +321,10 @@ Terjemahan harfiah
 Biografi
 Yuri Gagarin
 Jesus
-Yesus (disambiguasi)
+Yesus disambiguasi
 Brandenburg
 Lahar
-Port-au-Prince
+Port au Prince
 Keluarga
 Haiti
 Jepang
@@ -431,7 +431,7 @@ Daerah Khusus Ibukota
 Bumbu dapur
 Bahasa isolat
 God Save the King
-Bulan (disambiguasi)
+Bulan disambiguasi
 Bulan
 Udara
 Air
@@ -452,21 +452,21 @@ Sastra Prancis
 Gallimard
 TvOne
 Yugoslavia
-Berkas:Yugoslavia Peta.jpg
+Berkas:Yugoslavia Peta jpg
 Sejarah Yugoslavia
 Skala intensitas Mercalli yang dimodifikasi
 Skala Richter
-Yang di-Pertuan Agong
+Yang di Pertuan Agong
 Prusia Timur
 Belarus
 Partizan
 FYROM
-Sriwijaya (disambiguasi)
+Sriwijaya disambiguasi
 Jagung
 Sastra Sanskerta
 Sastra Jawa Kuno
 Sastra Jawa Pertengahan
-Statistik Fermi-Dirac
+Statistik Fermi Dirac
 Argentina
 Pergeseran benua
 Plat tektonik
@@ -488,7 +488,7 @@ Soekarno
 Soeharto
 London
 Sastra Jawa Baru
-Sastra Jawa-Bali
+Sastra Jawa Bali
 Bendera Hong Kong
 Hong Kong
 Armenia
@@ -522,17 +522,17 @@ Yoga
 Yang Dipertuan
 Yuridis
 Yurisdiksi
-X (disambiguasi)
+X disambiguasi
 Xerox
-Wilhelmus (lagu)
+Wilhelmus lagu
 Astrometri
 Pergeseran merah
 Pola
 Observatorium
 Mata manusia
-Organ (anatomi)
+Organ anatomi
 Jantung
-Paru-paru
+Paru paru
 Senyawa organik
 Molekul
 Uterus
@@ -575,7 +575,7 @@ Makanan
 Minuman
 Nutrisi
 Kesehatan
-Kasino (disambiguasi)
+Kasino disambiguasi
 Ikan
 Kahwin
 Pangan
@@ -608,15 +608,15 @@ Logika
 Logika konjungsi
 Logika disjungsi
 Logika negasi
-Benar (logika)
-Salah (logika)
-K (disambiguasi)
+Benar logika
+Salah logika
+K disambiguasi
 Kabel
 Kabin
-Kabinet (disambiguasi)
-Klasik (disambiguasi)
+Kabinet disambiguasi
+Klasik disambiguasi
 Kidung
-Kabul (disambiguasi)
+Kabul disambiguasi
 Khamis
 Logical Negasi
 Bahasa pemrograman
@@ -661,10 +661,10 @@ Insektivor
 Insekta
 Entomologi
 Artropoda
-Klasifikasi ilmiah (disambiguasi)
+Klasifikasi ilmiah disambiguasi
 Spesies
 Taksonomi
-Populasi (disambiguasi)
+Populasi disambiguasi
 Kartografi
 Peta
 Timbangan
@@ -726,7 +726,7 @@ Aksioma
 Sintaksis
 Teleskop
 Binokular
-Prisma (optik)
+Prisma optik
 Warna
 Pelangi
 Optika
@@ -735,7 +735,7 @@ Modulasi
 Kasur
 Kapten
 Kapiten
-Kala (disambiguasi)
+Kala disambiguasi
 Kanan
 Kiri
 Kartu Tanda Penduduk
@@ -755,7 +755,7 @@ Malaikat
 Kacang
 Kapal
 Kakawin Kuñjarakarna
-Kerajaan (disambiguasi)
+Kerajaan disambiguasi
 Kakawin Arjunawiwāha
 Empu Kanwa
 Kakawin Nagarakretagama
@@ -777,7 +777,7 @@ Tangga nada mayor
 Tangga nada minor
 Tangga nada minor melodis
 Tangga nada minor harmonis
-Interval (musik)
+Interval musik
 Hari Asyura
 Kakawin Sutasoma
 Kader
@@ -811,7 +811,7 @@ Skala pentatonik
 Gamelan
 Slendro
 Pelog
-Sen (musik)
+Sen musik
 Oktaf
 Elektronika
 Resistor
@@ -835,20 +835,20 @@ Coulomb
 Ampere
 Newton
 Percepatan
-Henry (satuan)
-Koninklijk Nederlandsch-Indische Leger
+Henry satuan
+Koninklijk Nederlandsch Indische Leger
 Kepala kantor wilayah
 Kantor wilayah
 Kafilah
 Notasi matematika
 Penambahan
 Turunan
-Fungsi (matematika)
+Fungsi matematika
 Sinonim
-Oposisi (semantik)
+Oposisi semantik
 Invers
 Kalkulus
-Limit (matematika)
+Limit matematika
 Bilangan bulat
 Bilangan asli
 Bilangan prima
@@ -862,7 +862,7 @@ Faktorial
 Seni tradisional
 Etimologi
 Kejora
-Kekal (grup musik)
+Kekal grup musik
 Kuis
 Keling
 Kraton
@@ -873,7 +873,7 @@ Kasa
 Kargo
 Pengeboman kereta api Madrid 2004
 Supermarket
-Kanvas (kain)
+Kanvas kain
 Kalsium
 Kemeja
 Kepeng
@@ -892,12 +892,12 @@ Keluarga Berencana
 Lagu KB
 Rasi bintang
 Daftar rasi bintang menurut luas
-Virgo (rasi bintang)
+Virgo rasi bintang
 Ursa Mayor
 Cetus
-Herkules (rasi bintang)
-Pegasus (rasi bintang)
-Sentaurus (rasi bintang)
+Herkules rasi bintang
+Pegasus rasi bintang
+Sentaurus rasi bintang
 Akuarius
 Ofiukus
 Leo
@@ -910,14 +910,14 @@ Bahasa Inggris
 Cygnus
 Camelopardalis
 Taurus
-Andromeda (rasi bintang)
+Andromeda rasi bintang
 Auriga
-Aquila (rasi bintang)
+Aquila rasi bintang
 Serpens
 Templat:Latin
 Bahasa Latin
 Bahasa mati
-Berkas:Silsilah AN.jpg
+Berkas:Silsilah AN jpg
 Aksara Nusantara
 Pandawa
 Alfabet Latin
@@ -935,8 +935,8 @@ Fosil
 Amerika Serikat
 Daftar perkataan Q
 Qaf
-Q (disambiguasi)
-F (disambiguasi)
+Q disambiguasi
+F disambiguasi
 Fa
 Fabel
 Fakta
@@ -952,7 +952,7 @@ Lisboa
 Daftar perkataan R
 Benjamin Franklin
 Reinkarnasi
-Latin (disambiguasi)
+Latin disambiguasi
 Animisme
 Taoisme
 Wikimedia Foundation
@@ -974,12 +974,12 @@ Faringal
 Faringitis
 Fanatik
 Fenomena
-Fenomenologi (filsafat)
+Fenomenologi filsafat
 Festival
 Fertilitas
 Fatalisme
 Fantastis
-Pajang (disambiguasi)
+Pajang disambiguasi
 Fasisme
 Faring
 Bangladesh
@@ -996,5 +996,5 @@ Babad Giyanti
 Tagihan
 Farmasi
 Farmakologi
-Perseus (rasi bintang)
+Perseus rasi bintang
 Cassiopeia
